@@ -1,0 +1,46 @@
+{
+	"settings": {
+		"repeatCheckInterval": 2500,
+		"maxRangeExceed": 7500
+	},
+	"files": {
+		"encounter/chrysalis": {
+			"src": "<id>.ogg",
+			"repeat": "defined",
+			"start": 15.13596,
+			"end": 51.4801,
+			"duration": 61.4801
+		},
+		"ending/bad": {
+			"src": "<id>.ogg",
+			"repeat": "loop",
+			"duration": 29.79
+		},
+		"ending/good": {
+			"src": "<id>.ogg",
+			"repeat": "defined",
+			"start": 31.523,
+			"end": 120.136,
+			"duration": 130.136
+		},
+		"ending/mane6": {
+			"src": "<id>.ogg",
+			"repeat": "defined",
+			"start": 6.1687,
+			"end": 41.08498,
+			"duration": 51.08498
+		},
+		"mode/more": {
+			"src": "<id>.ogg",
+			"repeat": "defined",
+			"start": 22.370,
+			"end": 78.278,
+			"duration": 88.278
+		},
+		"scene/everfree": {
+			"src": "<id>.ogg",
+			"repeat": "loop",
+			"duration": 101.377
+		}
+	}
+}
